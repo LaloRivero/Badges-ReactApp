@@ -4,7 +4,7 @@ import Footer from "../../components/Footer"
 import Button from "../../components/MainButton";
 import "./Landing.css";
 
-const Main = (props) => {
+const Landing = (props) => {
   return (
     <React.Fragment>
       <div className="Main">
@@ -19,4 +19,4 @@ const Main = (props) => {
   );
 };
 
-export default Main;
+export default Landing;

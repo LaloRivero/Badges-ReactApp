@@ -1,0 +1,82 @@
+{
+  "badges": [
+    {
+      "header_picture": "https://images.pexels.com/photos/7409329/pexels-photo-7409329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "profile_picture": "https://images.pexels.com/photos/7572824/pexels-photo-7572824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Sofia Gonzalez",
+      "age": "18",
+      "city": "Chihuahua MX",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 1
+    },
+    {
+      "header_picture": "https://images.pexels.com/photos/7085538/pexels-photo-7085538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "profile_picture": "https://images.pexels.com/photos/7263197/pexels-photo-7263197.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Erick Lopez",
+      "age": "22",
+      "city": "San Francisco CA",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 2
+    },
+    {
+      "header_picture": "https://images.pexels.com/photos/4329786/pexels-photo-4329786.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "profile_picture": "https://images.pexels.com/photos/7905370/pexels-photo-7905370.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "name": "Carlos Acosta",
+      "age": "21",
+      "city": "Alberta CA",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 3
+    },
+    {
+      "header_picture": "https://images.pexels.com/photos/5472598/pexels-photo-5472598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "profile_picture": "https://images.pexels.com/photos/5993694/pexels-photo-5993694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Mauricio Ruiz",
+      "age": "20",
+      "city": "Chihuahua MX",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 4
+    },
+    {
+      "header_img_url": "https://images.pexels.com/photos/5472598/pexels-photo-5472598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "profile_picture_url": "https://images.pexels.com/photos/5993694/pexels-photo-5993694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Mauricio Ruiz",
+      "age": "20",
+      "city": "",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "header_picture": "https://images.pexels.com/photos/5472598/pexels-photo-5472598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 5
+    },
+    {
+      "header_img_url": "https://images.pexels.com/photos/5472598/pexels-photo-5472598.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "profile_picture_url": "https://images.pexels.com/photos/5993694/pexels-photo-5993694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Mauricio Ruiz",
+      "age": "20",
+      "city": "Chihuahua MX",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 6
+    },
+    {
+      "header_img_url": "https://images.pexels.com/photos/5472598/pexels-photo-5472598.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "profile_picture_url": "https://images.pexels.com/photos/5993694/pexels-photo-5993694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Mauricio Ruiz",
+      "age": "20",
+      "city": "Chihuahua MX",
+      "followers": "",
+      "likes": "",
+      "post": "",
+      "id": 7
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom"
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Main from "./pages/Main/Main";
 import Layout from "./pages/layout/Layout";
-import Main from "../src/pages/Main/Main";
-import NewBadge from "./pages/NewBadge/NewBadge"
-import Badges from "./pages/Badges/Badges"
-import BadgeDetails from "./components/BadgeDetails"
-import NotFound from "./pages/NotFound/NotFound"
+import NewBadge from "./pages/NewBadge/NewBadge";
+import Badges from "./pages/Badges/Badges";
+import BadgeDetails from "./components/BadgeDetails";
+import NotFound from "./pages/NotFound/NotFound";
 import EditBadge from "./pages/EditBadge/EditBadge";
 
 function App() {
